@@ -1,0 +1,2782 @@
+13:00:20:285  NOTIFY https://www.healthcare.gov/api/articles.json
+13:00:20:641  NOTIFY https://www.healthcare.gov/api/blog.json
+13:00:21:393  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+13:00:21:394  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: BlogPageName
+13:00:22:575  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+13:00:22:576  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: EsBlogPageName
+13:00:22:580  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: FileName | Your request will not be process
+13:00:22:752  NOTIFY https://www.healthcare.gov/api/glossary.json
+13:00:24:057  NOTIFY https://www.healthcare.gov/api/questions.json
+13:00:24:058  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Questions
+13:00:24:505  NOTIFY https://www.healthcare.gov/api/states.json
+13:00:24:597  NOTIFY https://www.healthcare.gov/api/topics.json
+13:28:48:427  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Articles | Your request will not be process
+13:28:48:524  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Blog | Your request will not be process
+13:28:48:530  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: BlogPageName | Your request will not be process
+13:28:48:539  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: EsBlogPageName | Your request will not be process
+13:28:48:543  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: FileName | Your request will not be process
+13:28:48:547  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Glossary | Your request will not be process
+13:28:48:550  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Questions | Your request will not be process
+13:28:48:553  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: States | Your request will not be process
+13:28:48:558  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Topics | Your request will not be process
+13:29:34:809  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealtCareGov\Gets | FileName: Articles | Your request will not be process
+13:33:06:616  NOTIFY https://www.healthcare.gov/api/articles.json
+13:33:06:745  NOTIFY https://www.healthcare.gov/api/blog.json
+13:33:07:482  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+13:33:07:483  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+13:33:08:622  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+13:33:08:624  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+13:33:08:628  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+13:33:08:713  NOTIFY https://www.healthcare.gov/api/glossary.json
+13:33:09:003  NOTIFY https://www.healthcare.gov/api/questions.json
+13:33:09:004  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+13:33:09:100  NOTIFY https://www.healthcare.gov/api/states.json
+13:33:09:159  NOTIFY https://www.healthcare.gov/api/topics.json
+13:38:12:512  NOTIFY https://www.healthcare.gov/api/articles.json
+13:38:12:643  NOTIFY https://www.healthcare.gov/api/blog.json
+13:38:13:374  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+13:38:13:375  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+13:38:14:928  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+13:38:14:929  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+13:38:14:931  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+13:38:15:019  NOTIFY https://www.healthcare.gov/api/glossary.json
+13:38:15:325  NOTIFY https://www.healthcare.gov/api/questions.json
+13:38:15:326  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+13:38:15:406  NOTIFY https://www.healthcare.gov/api/states.json
+13:38:15:478  NOTIFY https://www.healthcare.gov/api/topics.json
+13:38:16:100  NOTIFY https://api.nasa.gov/planetary/apod
+13:38:16:101  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"code":400,"msg":"Bad Request: incorrect field passed. Allowed request fields for apod method are 'concept_tags', 'date', 'hd', 'count', 'start_date', 'end_date', 'thumbs'","service_version":"v1"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Apod
+13:38:19:650  NOTIFY https://api.nasa.gov/neo/rest/v1/feed
+13:38:20:436  NOTIFY https://api.nasa.gov/DONKI/notifications
+13:38:20:962  NOTIFY https://api.nasa.gov/planetary/earth/assets
+13:38:20:964  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"msg":"Bad Request incorrect field passed. Allowed request fields for earth/imagery method are 'lat', 'lon', 'address', 'dataset', 'date', 'cloud_score', 'dim'","service_version":"v5000"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Earth
+13:38:22:323  NOTIFY https://api.nasa.gov/EPIC/api/natural/images
+13:38:22:895  NOTIFY https://genelab-data.ndc.nasa.gov/genelab/data/glds/files/87
+13:38:23:643  NOTIFY https://api.nasa.gov/techtransfer/patent/
+13:40:11:180  NOTIFY https://www.healthcare.gov/api/articles.json
+13:40:11:317  NOTIFY https://www.healthcare.gov/api/blog.json
+13:40:11:818  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+13:40:11:819  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+13:40:12:755  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+13:40:12:757  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"226844",ustr:"",originlat:"0",clientrtt:"1",ghostip:"184.25.57.130",ipv6:false,pct:"10",clientip:"2806:2f0:93c1:c775:694e:92e8:4968:21d",requestid:"3d6d955",region:"23110",protocol:"",blver:14,akM:"",akN:"ae",akTT:"O",akTX:"1",akTI:"3d6d955",ai:"203292",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+13:40:12:760  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+13:40:12:841  NOTIFY https://www.healthcare.gov/api/glossary.json
+13:40:13:156  NOTIFY https://www.healthcare.gov/api/questions.json
+13:40:13:157  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+13:40:13:222  NOTIFY https://www.healthcare.gov/api/states.json
+13:40:13:270  NOTIFY https://www.healthcare.gov/api/topics.json
+13:40:13:812  NOTIFY https://api.nasa.gov/planetary/apod
+13:40:13:813  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"code":400,"msg":"Bad Request: incorrect field passed. Allowed request fields for apod method are 'concept_tags', 'date', 'hd', 'count', 'start_date', 'end_date', 'thumbs'","service_version":"v1"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Apod
+13:40:14:394  NOTIFY https://api.nasa.gov/neo/rest/v1/feed
+13:40:15:166  NOTIFY https://api.nasa.gov/DONKI/notifications
+13:40:15:691  NOTIFY https://api.nasa.gov/planetary/earth/assets
+13:40:15:692  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"msg":"Bad Request incorrect field passed. Allowed request fields for earth/imagery method are 'lat', 'lon', 'address', 'dataset', 'date', 'cloud_score', 'dim'","service_version":"v5000"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Earth
+13:40:17:051  NOTIFY https://api.nasa.gov/EPIC/api/natural/images
+13:40:17:583  NOTIFY https://genelab-data.ndc.nasa.gov/genelab/data/glds/files/87
+13:40:18:244  NOTIFY https://api.nasa.gov/techtransfer/patent/
+13:58:40:366  NOTIFY https://api.nasa.gov/planetary/apod
+14:10:36:679  NOTIFY https://api.nasa.gov/planetary/apod
+14:16:32:337  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+14:16:32:339  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+14:16:33:535  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+14:16:33:536  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+14:16:33:540  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+14:16:34:066  NOTIFY https://www.healthcare.gov/api/questions.json
+14:16:34:067  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+14:16:34:686  NOTIFY https://api.nasa.gov/planetary/earth/assets
+14:16:34:687  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"msg":"Bad Request incorrect field passed. Allowed request fields for earth/imagery method are 'lat', 'lon', 'address', 'dataset', 'date', 'cloud_score', 'dim'","service_version":"v5000"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Earth
+14:17:21:234  NOTIFY https://www.healthcare.gov/api/articles.json
+14:17:21:370  NOTIFY https://www.healthcare.gov/api/blog.json
+14:17:21:934  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+14:17:21:936  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+14:17:22:869  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+14:17:22:870  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+14:17:22:873  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+14:17:22:952  NOTIFY https://www.healthcare.gov/api/glossary.json
+14:17:23:319  NOTIFY https://www.healthcare.gov/api/questions.json
+14:17:23:320  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+14:17:23:408  NOTIFY https://www.healthcare.gov/api/states.json
+14:17:23:466  NOTIFY https://www.healthcare.gov/api/topics.json
+14:17:23:921  NOTIFY https://api.nasa.gov/planetary/apod
+14:17:23:922  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"code":400,"msg":"Bad Request: incorrect field passed. Allowed request fields for apod method are 'concept_tags', 'date', 'hd', 'count', 'start_date', 'end_date', 'thumbs'","service_version":"v1"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Apod
+14:17:27:560  NOTIFY https://api.nasa.gov/neo/rest/v1/feed
+14:17:28:366  NOTIFY https://api.nasa.gov/DONKI/notifications
+14:17:28:872  NOTIFY https://api.nasa.gov/planetary/earth/assets
+14:17:28:873  ERROR  An error occurred, status code response: BadRequest |  | ErrorExeption:  | ContentResponse: {"msg":"Bad Request incorrect field passed. Allowed request fields for earth/imagery method are 'lat', 'lon', 'address', 'dataset', 'date', 'cloud_score', 'dim'","service_version":"v5000"}
+ | file path: ..\..\..\Requests\NasaOpenAPI\Gets | FileName: Earth
+14:17:30:137  NOTIFY https://api.nasa.gov/EPIC/api/natural/images
+14:17:30:694  NOTIFY https://genelab-data.ndc.nasa.gov/genelab/data/glds/files/87
+14:17:31:420  NOTIFY https://api.nasa.gov/techtransfer/patent/
+14:18:01:583  NOTIFY https://www.healthcare.gov/api/articles.json
+14:18:01:699  NOTIFY https://www.healthcare.gov/api/blog.json
+14:18:02:183  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/blog/blogname.json
+14:18:02:184  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: BlogPageName
+14:18:03:049  NOTIFY https://any-api.com:8443/https://www.healthcare.gov/es/blog/pageName.json
+14:18:03:051  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='es'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Lo sentimos, no podemos encontrar la página | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Blog Seguro de Salud - CuidadoDeSalud.gov" href="/es/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Lo sentimos, no podemos encontrar la página" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Lo sentimos, no podemos encontrar la página"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo-es.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Lo sentimos, no podemos encontrar la página"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Lo sentimos, no podemos encontrar la página","content_language":"es","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/es/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div id="qualtrics-top-alert-container" class="hidden" aria-hidden="true"></div><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Lo sentimos, no podemos encontrar la página<br>en CuidadoDeSalud.gov</h1>
+    <p>También es posible que haya escrito la dirección incorrectamente.</p>
+    <hr>
+    <h3>Buscar CuidadoDeSalud.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/es/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Búsqueda en el sitio" class="form-control nav-search" name="q" type="search" placeholder="Buscar CuidadoDeSalud.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Busque</button>
+            </span>
+          </div>
+        </div>
+      </form>
+       </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+<p>Por favor, incluya el número de referencia a continuación si desea comunicarse con nosotros al 1-800-318-2596 para obtener ayuda. </p>
+<p>
+<script language="javascript" type="text/javascript">
+<!--
+document.write("Error from: " + escape(window.location.href));
+// -->
+</script>
+<br />Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+<script language="javascript" type="text/javascript">
+<!--
+function encodeIpAddress(address)
+{
+    octets = address.split(".");
+	encodedAddress = "";
+	for (var i = 0; i < 4; i++)
+	{
+	    var x = parseInt(octets[i]);
+		encodedAddress = x.toString(16) + encodedAddress;
+	}
+    return encodedAddress;
+}
+
+function generateRefId(address, time, requestId)
+{
+    var refId = "0.";
+	refId += encodeIpAddress(address) + ".";
+	refId += time + ".";
+	refId += requestId;
+	return refId;
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+
+//var time = gup('Time');
+//var edgeIp = gup('Edge');
+//var request = gup('Request');
+
+var time= getCookie('time');
+var edgeIP = getCookie('edgeip');
+var request = getCookie('requestid');
+var clientIP= getCookie('clientip');
+
+
+//alert(time);
+//alert(edgeIP);
+//alert(request);
+//alert(clientIP);
+
+document.getElementById('refId').innerHTML = generateRefId(edgeIP, time, request);
+document.getElementById('clientip').innerHTML = clientIP;
+
+// -->
+</script>
+</div>
+
+  </div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/es/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: EsBlogPageName
+14:18:03:055  ERROR  The file requested doesnt exists | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: FileName | Your request will not be process
+14:18:03:150  NOTIFY https://www.healthcare.gov/api/glossary.json
+14:18:03:481  NOTIFY https://www.healthcare.gov/api/questions.json
+14:18:03:482  ERROR  An error occurred, status code response: NotFound |  | ErrorExeption:  | ContentResponse: <!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0'/>
+  <title>Sorry, we can't find that page | HealthCare.gov</title>
+  <link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />
+  <link rel="alternate" type="application/rss+xml" title="Health Insurance Blog - Healthcare.gov" href="/blog/blog.rss" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml" /><!-- Privacy Policy --><meta name="msvalidate.01" content="598A98B6EDF7624D92A421A892DC3A45"><!-- Bing validation -->
+  <meta name='search-title' content="Sorry, we can't find that page" />
+  <meta name='content-type' content='index' />
+  <meta name='bite' content="" /><meta name='description' content="" /><meta property="og:title" content="Sorry, we can't find that page"/>
+    <meta property="og:type" content='index' /><meta property="og:image" content="https://www.healthcare.gov/images/logo.png"/><meta property="og:site_name" content="HealthCare.gov"/>
+    <meta property="og:description" content=""/><meta name="twitter:card" content=""/>
+  <meta name="twitter:url" content="HealthCare.gov"/>
+  <meta name="twitter:title" content="Sorry, we can't find that page"/><script>
+    window.baseUrl = "";
+  </script>
+  <script type="text/javascript" src="//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/prod/utag.sync.js"></script>
+  <script type="text/javascript" src="//assets.healthcare.gov/resources/libs/optimizely/optimizely.js"></script>
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime();</script><!-- Chartbeat -->
+  <script src="//assets.healthcare.gov/resources/libs/jquery/1.11/js/jquery.min.js"></script>
+  <script src="//assets.healthcare.gov/resources/libs/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/ext/bootstrap-accessibility.min.js"></script><script type="text/javascript" src="/js/all.js"></script><!-- All JavaScript Package --><link rel="publisher" href="//plus.google.com/112755994883163074657" /><!-- Google Publisher -->
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  
+  <link href="/css/all-learn.css?v=1668095099" rel="stylesheet" />
+  <link rel='stylesheet' href='/css/print.css' type='text/css' media='print' />
+  <link rel="stylesheet" href="/css/bootstrap-accessibility.css" /><!-- Accessibility Plugin CSS --><!--[if IE]>
+      <style>
+      .hidden-ie {display: none;}
+      </style>
+  <![endif]-->
+</head><body id="hcgov-learn" class='no-touch portal-id-learn'><!--googleoff: all--><script type="text/javascript">
+  var utag_data = {"page_name":"learn: jeykll static learn page: Sorry, we can't find that page","content_language":"en","content_type":"jekyll static learn page","site_division":"learn","page_name":"page not found","site_section":"page not found","site_division":"page not found","content_type":"page not found"};
+  var domain = window.location.host;
+  var subdomain = domain.split(".")[0];
+  var pathParts = window.location.pathname.split("/");
+  var section = pathParts.filter(function (part) {
+    return part !== "" && part !== "es";
+  })[0];
+  utag_data.site_domain = domain;
+  utag_data.site_environment = subdomain === "www" ? "production" : subdomain;
+  utag_data.site_section = utag_data.site_section || "learn: " + (section || "homepage");
+</script>
+<!-- Tealium Tag Manager - LEARN -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/cmsgov/healthcare-learn/'+(/www.healthcare.gov|www.cuidadodesalud.gov/.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
+  <!-- End Tealium Tag Manager -->
+  <!-- ESI include headers based on experience and language --><esi:include src="/esi/header-learn.html" /><!--googleon: all-->
+  <div id="main-body-content" class="main-body-content" role="main" tabindex="-1">
+    <div class="lite-card"><div class="lite-card-inner">
+  <div class='container fourofour'>
+    <h1>Sorry, we can't find that page<br>on HealthCare.gov</h1>
+    <p>We've recently reorganized our site, and that may explain it.<br>It's also possible that you typed the address incorrectly.</p>
+    <hr>
+    <h3>Search HealthCare.gov</h3>
+    <div class='input-append'>
+      <form role="search" class="gsearch" name="gsearch" method="get" action="/search">
+        <div class="col-sm-offset-3 col-sm-6 col-sm-offset-3">
+          <div class="input-group">
+            <input id='404-search' title="Site Search" class="form-control nav-search" name="q" type="search" placeholder="Search HealthCare.gov" autocomplete="off">
+            <span class="input-group-btn">
+              <button class="btn btn-blue btn-search" value="search">Search</button>
+            </span>
+          </div>
+        </div>
+      </form>
+		   </div>
+
+	  <!-- AKAMAI DIAGNOSTIC INFO -->
+
+<div style="text-align: center; margin:  .25em auto; font: 80% normal Arial, Tahoma, sans serif; color: rgba(0, 0, 0, 0);">
+
+<p>Please include the reference ID below if you wish to contact us at 1-800-318-2596 for support.</p>
+
+<p>
+  <script language="javascript" type="text/javascript">
+    <!--
+    document.write("Error from: " + escape(window.location.href));
+    // -->
+  </script>
+  <br/> Reference ID: <span id="refId">Javascript is required to generate the reference ID.</span>
+</p>
+
+  <script language="javascript" type="text/javascript" src="/js/gov.hc.diagnostic.js"></script>
+
+</div>
+</div>
+</div>
+
+    </div>
+  </div><esi:include src="/esi/footer-full-learn.html" /><script src="/js/default.js"></script></body>
+</html>
+ | file path: ..\..\..\Requests\HealthCareGov\Gets | FileName: Questions
+14:18:03:556  NOTIFY https://www.healthcare.gov/api/states.json
+14:18:03:604  NOTIFY https://www.healthcare.gov/api/topics.json
+14:18:04:261  NOTIFY https://api.nasa.gov/planetary/apod
+14:18:04:902  NOTIFY https://api.nasa.gov/neo/rest/v1/feed
+14:18:05:669  NOTIFY https://api.nasa.gov/DONKI/notifications
+14:18:06:915  NOTIFY https://api.nasa.gov/planetary/earth/assets
+14:18:08:295  NOTIFY https://api.nasa.gov/EPIC/api/natural/images
+14:18:08:762  NOTIFY https://genelab-data.ndc.nasa.gov/genelab/data/glds/files/87
+14:18:09:635  NOTIFY https://api.nasa.gov/techtransfer/patent/
