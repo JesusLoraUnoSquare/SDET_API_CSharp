@@ -4,14 +4,13 @@ using SDETAPI_CSharp.Logs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using static SDETAPI_CSharp.Enums.EventTypes;
 
-namespace SDETAPI_CSharp.Features.NasaOpenAPI
+namespace SDETAPI_CSharp.Features.AzureWebSites
 {
-    internal class NasaOpenAPI
+    internal class AzureWebSites
     {
         private SDETAPI_CSharp.Core.JsonReader jsonReader;
 
@@ -25,10 +24,13 @@ namespace SDETAPI_CSharp.Features.NasaOpenAPI
                 if (ValidationFiles.ValidateIfJsonFileExists(path, fileName))
                 {
                     jsonReader = new SDETAPI_CSharp.Core.JsonReader();
-                    Core.JsonContent jsonContent = jsonReader.ReadJsonFile(path, fileName);
-
+                    JsonApiPost jsonApiPost = jsonReader.ReadJsonPostFile(path, fileName);
+                    JsonContent jsonContent = new JsonContent();
+                    jsonContent.Method = jsonApiPost.method;
+                    jsonContent.URL = jsonApiPost.url;
                     RestCore restCore = new RestCore();
                     RestRequest restRequest = restCore.CreateRequestWithHeaders(jsonContent);
+                    restRequest = restCore.CreateRequestBody(restRequest, jsonApiPost.body);
 
                     featureResponse = restCore.ExecuteRequest(restRequest);
 

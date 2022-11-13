@@ -1321,11 +1321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learning_Plan\\SDET_API\\SDETAPI_CSharp\\SDETAPI_CSharp.csproj",
+      "projectUniqueName": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj",
       "projectName": "SDETAPI_CSharp",
-      "projectPath": "C:\\Learning_Plan\\SDET_API\\SDETAPI_CSharp\\SDETAPI_CSharp.csproj",
+      "projectPath": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj",
       "packagesPath": "C:\\Users\\jesus.lora\\.nuget\\packages\\",
-      "outputPath": "C:\\Learning_Plan\\SDET_API\\SDETAPI_CSharp\\obj\\",
+      "outputPath": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,5 @@
-﻿using SDETAPI_CSharp.Features.HealthCareGov;
+﻿using SDETAPI_CSharp.Core;
+using SDETAPI_CSharp.Features.HealthCareGov;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace SDETAPI_CSharp.Tests
 {
     internal class HealthCareGovTests
     {
-        private string ValueResultSuccess = "OK";
+        private string ValueResultSuccess = "200";
         private string pathFilesHealthCareGov = @"..\..\..\Requests\HealthCareGov\Gets";
         [SetUp]
         public void Setup()
@@ -17,103 +18,102 @@ namespace SDETAPI_CSharp.Tests
         }
 
         [Test]
+        [Category("SanityTest")]
         public void TestArticles()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Articles");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Articles");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
+           
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestBlog()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Blog");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Blog");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestBlogPageName()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "BlogPageName");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "BlogPageName");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
 
         [Test]
+        [Category("SmokeTest")]
         public void TestEsBlogPageName()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "EsBlogPageName");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "EsBlogPageName");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestGlossary()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Glossary");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Glossary");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestQuestions()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Questions");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Questions");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestStates()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "States");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "States");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestTopics()
         {
             //Instance object
             HealthCareGov healthCareGov = new HealthCareGov();
             //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Topics");
+            FeatureResponse result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "Topics");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
-        [Test]
-        public void TestFileNotExists()
-        {
-            //Instance object
-            HealthCareGov healthCareGov = new HealthCareGov();
-            //Execute validation
-            string result = healthCareGov.ValidateAPI(pathFilesHealthCareGov, "FileName");
-            //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
-        }
     }
 }

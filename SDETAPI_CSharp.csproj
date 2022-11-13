@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Requests\AzureWebSites\Posts\" />
     <Folder Include="Requests\NasaOpenAPI\Posts\" />
   </ItemGroup>
 

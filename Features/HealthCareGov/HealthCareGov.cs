@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using RestSharp;
 using SDETAPI_CSharp.Core;
 using SDETAPI_CSharp.Logs;
@@ -7,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http.Json;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using static SDETAPI_CSharp.Enums.EventTypes;
@@ -17,9 +19,9 @@ namespace SDETAPI_CSharp.Features.HealthCareGov
     {
         private SDETAPI_CSharp.Core.JsonReader jsonReader;
 
-        public string ValidateAPI(string path,string fileName)
+        public FeatureResponse ValidateAPI(string path,string fileName)
         {
-            string result = "";
+            FeatureResponse featureResponse = new FeatureResponse();
 
 
             try
@@ -32,35 +34,28 @@ namespace SDETAPI_CSharp.Features.HealthCareGov
                     RestCore restCore = new RestCore();
                     RestRequest restRequest = restCore.CreateRequestWithHeaders(jsonContent);
 
-                    RestResponse restResponse = restCore.ExecuteRequest(restRequest);
+                    featureResponse = restCore.ExecuteRequest(restRequest);
 
+                    string estatus = ReadResponseLinq.ValidateResponseUsingLinq(featureResponse);
 
-                    if (restResponse.StatusCode == HttpStatusCode.OK && restResponse.IsSuccessful)
+                    if (estatus != "200")
                     {
-                        result = "OK";
-                    }
-                    else
-                    {
-                        result = "An error occurred, status code response: " + restResponse.StatusCode + " | " + restResponse.ErrorMessage + " | ErrorExeption: " + restResponse.ErrorMessage + " | ContentResponse: " + restResponse.Content + " | file path: " + path + " | FileName: " + fileName;
-                        Log.AddEvent(result, LogType.ERROR);
+                        Log.AddEvent("An error occurred, status code response: " + featureResponse.statusCode + " | file path: " + path + " | FileName: " + fileName, LogType.ERROR);
                     }
                 }
                 else
                 {
-                    result = "The file requested doesnt exists | file path: " + path + " | FileName: " + fileName+" | Your request will not be process";
-                    Log.AddEvent(result, LogType.ERROR);
+                    Log.AddEvent("The file requested doesnt exists | file path: " + path + " | FileName: " + fileName + " | Your request will not be process", LogType.ERROR);
                 }
             }
             catch (Exception ex)
             {
-                result = "An error occurred while calling API, file path: " + path + " | FileName: " + fileName;
-                Log.AddEvent(result + " | " + ex.Message, LogType.ERROR);
+                Log.AddEvent("An error occurred while calling API, file path: " + path + " | FileName: " + fileName + " | " + ex.Message, LogType.ERROR);
             }
 
 
-            return result;
+            return featureResponse;
         }
-
 
     }
 }

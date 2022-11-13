@@ -37,5 +37,25 @@ namespace SDETAPI_CSharp.Core
             return result;
 
         }
+
+        public JsonApiPost ReadJsonPostFile(string path, string fileName)
+        {
+            string completePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory + path, fileName + ".json");
+            JsonApiPost result = new JsonApiPost();
+            try
+            {
+                StreamReader streamReader = new StreamReader(completePath);
+                string jsonData = streamReader.ReadToEnd();
+                streamReader.Close();
+
+                result = JsonConvert.DeserializeObject<JsonApiPost>(jsonData);
+            }
+            catch (Exception ex)
+            {
+                Log.AddEvent(ex.Message + " | " + fileName, LogType.ERROR);
+            }
+            return result;
+
+        }
     }
 }

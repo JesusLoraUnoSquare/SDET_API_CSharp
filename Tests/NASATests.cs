@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
+using SDETAPI_CSharp.Core;
 using SDETAPI_CSharp.Features;
 using SDETAPI_CSharp.Features.HealthCareGov;
 using SDETAPI_CSharp.Features.NasaOpenAPI;
@@ -13,7 +14,7 @@ namespace SDETAPI_CSharp.Tests
 {
     public class NASATests
     {
-        private string ValueResultSuccess = "OK";
+        private string ValueResultSuccess = "200";
         private string pathFilesNasaOpenAPI = @"..\..\..\Requests\NasaOpenAPI\Gets";
         [SetUp]
         public void Setup()
@@ -21,80 +22,87 @@ namespace SDETAPI_CSharp.Tests
         }
 
         [Test]
+        [Category("SanityTest")]
         public void TestApod()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Apod");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Apod");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestAsteroidsNeoWS()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "AsteroidsNeoWS");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "AsteroidsNeoWS");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestDonki()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Donki");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Donki");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestEarth()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Earth");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Earth");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestEpic()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Epic");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "Epic");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestGoneLab()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "GoneLab");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "GoneLab");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
 
         [Test]
+        [Category("SmokeTest")]
         public void TestTechTransfer()
         {
             //Instance object
             NasaOpenAPI nasaOpenAPI = new NasaOpenAPI();
             //Execute validation
-            string result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "TechTransfer");
+            FeatureResponse result = nasaOpenAPI.ValidateAPI(pathFilesNasaOpenAPI, "TechTransfer");
             //Validation result
-            Assert.AreEqual(ValueResultSuccess, result);
+            Assert.That(result.statusCode, Is.EqualTo(ValueResultSuccess));
         }
     }
 }

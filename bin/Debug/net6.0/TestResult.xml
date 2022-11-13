@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="16" result="Failed" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2" engine-version="3.15.2.0" clr-version="4.0.30319.42000" start-time="2022-11-12 05:05:18Z" end-time="2022-11-12 05:05:18Z" duration="0.799147">
+  <command-line><![CDATA["C:\Users\jesus.lora\Downloads\NUnit.Console-3.15.2\bin\net35\nunit3-console.exe"  "C:\Learning_Plan\Practices\SDET_API_CSharp\bin\Debug\net6.0\SDETAPI_CSharp.dll" --where="cat==SanityTest"]]></command-line>
+  <filter>
+    <cat>SanityTest</cat>
+  </filter>
+  <test-suite type="Assembly" id="1-1018" name="SDETAPI_CSharp.dll" fullname="C:/Learning_Plan/Practices/SDET_API_CSharp/bin/Debug/net6.0/SDETAPI_CSharp.dll" runstate="Runnable" testcasecount="16" result="Failed" site="Child" start-time="2022-11-12T05:05:18.7162331Z" end-time="2022-11-12T05:05:18.8222635Z" duration="0.105972" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.13.3.0" clr-version="6.0.11" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="C:\Learning_Plan\Practices\SDET_API_CSharp\bin\Debug\net6.0" machine-name="REM-LT-221028A" user="jesus.lora" user-domain="UNOSQUARE" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Learning_Plan\Practices\SDET_API_CSharp\bin\Debug\net6.0" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETCoreApp,Version=v6.0" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="netcore-6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="20528" />
+      <property name="_APPDOMAIN" value="nunit-agent" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1-1019" name="SDETAPI_CSharp" fullname="SDETAPI_CSharp" runstate="Runnable" testcasecount="16" result="Failed" site="Child" start-time="2022-11-12T05:05:18.7248983Z" end-time="2022-11-12T05:05:18.8222535Z" duration="0.097354" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <properties />
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1-1020" name="Tests" fullname="SDETAPI_CSharp.Tests" runstate="Runnable" testcasecount="16" result="Failed" site="Child" start-time="2022-11-12T05:05:18.7251861Z" end-time="2022-11-12T05:05:18.8222432Z" duration="0.097057" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1-1000" name="HealthCareGovTests" fullname="SDETAPI_CSharp.Tests.HealthCareGovTests" classname="SDETAPI_CSharp.Tests.HealthCareGovTests" runstate="Runnable" testcasecount="9" result="Failed" site="Child" start-time="2022-11-12T05:05:18.7264381Z" end-time="2022-11-12T05:05:18.8175435Z" duration="0.091105" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1-1001" name="TestArticles" fullname="SDETAPI_CSharp.Tests.HealthCareGovTests.TestArticles" methodname="TestArticles" classname="SDETAPI_CSharp.Tests.HealthCareGovTests" runstate="Runnable" seed="1705756494" result="Failed" start-time="2022-11-12T05:05:18.7287656Z" end-time="2022-11-12T05:05:18.8144448Z" duration="0.085782" asserts="1">
+            <properties>
+              <property name="Category" value="SanityTest" />
+            </properties>
+            <failure>
+              <message><![CDATA[  Expected: "200"
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at SDETAPI_CSharp.Tests.HealthCareGovTests.TestArticles() in C:\Learning_Plan\Practices\SDET_API_CSharp\Tests\HealthCareGovTests.cs:line 29
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: "200"
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at SDETAPI_CSharp.Tests.HealthCareGovTests.TestArticles() in C:\Learning_Plan\Practices\SDET_API_CSharp\Tests\HealthCareGovTests.cs:line 29
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+        <test-suite type="TestFixture" id="1-1010" name="NASATests" fullname="SDETAPI_CSharp.Tests.NASATests" classname="SDETAPI_CSharp.Tests.NASATests" runstate="Runnable" testcasecount="7" result="Failed" site="Child" start-time="2022-11-12T05:05:18.8191082Z" end-time="2022-11-12T05:05:18.8222219Z" duration="0.003113" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1-1011" name="TestApod" fullname="SDETAPI_CSharp.Tests.NASATests.TestApod" methodname="TestApod" classname="SDETAPI_CSharp.Tests.NASATests" runstate="Runnable" seed="770556183" result="Failed" start-time="2022-11-12T05:05:18.8192680Z" end-time="2022-11-12T05:05:18.8221533Z" duration="0.002886" asserts="1">
+            <properties>
+              <property name="Category" value="SanityTest" />
+            </properties>
+            <failure>
+              <message><![CDATA[  Expected: "200"
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at SDETAPI_CSharp.Tests.NASATests.TestApod() in C:\Learning_Plan\Practices\SDET_API_CSharp\Tests\NASATests.cs:line 33
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: "200"
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at SDETAPI_CSharp.Tests.NASATests.TestApod() in C:\Learning_Plan\Practices\SDET_API_CSharp\Tests\NASATests.cs:line 33
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

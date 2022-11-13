@@ -1,8 +1,10 @@
-﻿using RestSharp;
+﻿using Newtonsoft.Json;
+using RestSharp;
 using SDETAPI_CSharp.Logs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -53,27 +55,38 @@ namespace SDETAPI_CSharp.Core
             return restRequest;
         }
 
+        public RestRequest CreateRequestBody(RestRequest restRequestParameter,string body)
+        {
+            restRequestParameter.AddParameter("application/json", body, ParameterType.RequestBody);
+
+            return restRequestParameter;
+        }
+
         /// <summary>
         /// Add request to body and execute
         /// </summary>
         /// <param name="restRequest"></param>
         /// <returns></returns>
-        public RestResponse ExecuteRequest(RestRequest restRequest)
+        public FeatureResponse ExecuteRequest(RestRequest restRequest)
         {
             RestResponse serviceReponse=new RestResponse();
+            FeatureResponse featureResponse = new FeatureResponse();
             try
             {
                 //restRequest.AddParameter("application/json;charset=utf-8", ParameterType.RequestBody);
                 RestClient restClient = new RestClient();
                 serviceReponse = restClient.Execute(restRequest);
-                Log.AddEvent(restRequest.Resource, LogType.NOTIFY);
+             
+                featureResponse = JsonConvert.DeserializeObject<FeatureResponse>("{\"status\":\"" + serviceReponse.StatusCode+ "\",\"statusCode\":\"" + (int)serviceReponse.StatusCode+ "\"}");
 
+                //Log response
+                Log.AddEvent("Method: " + restRequest.Method.ToString()  +" | Response: "+ (int)serviceReponse.StatusCode + " |URL: " + restRequest.Resource, LogType.NOTIFY);
             }
             catch (Exception ex)
             {
                 Log.AddEvent("An error occurred while calling API,"+ ex.ToString()+" | "+restRequest.ToString(), LogType.ERROR);
             }
-            return serviceReponse;
+            return featureResponse;
         }
     }
 }
