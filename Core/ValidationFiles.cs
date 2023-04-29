@@ -8,7 +8,7 @@ namespace SDETAPI_CSharp.Core
 {
 
     /// <summary>
-    /// test comment 3
+    /// test comment 4
     /// </summary>
     public  class ValidationFiles
     {
