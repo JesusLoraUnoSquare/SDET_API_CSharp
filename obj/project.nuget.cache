@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w9u4nnF5awKGzrS6MIxVJaArQpyzlXquKhZivjz2buN7LQo+DDq0txUnKA0cpAdfTrWx12z4PWWM8u0E1AQS1w==",
+  "dgSpecHash": "1SnPQ1l7ENIrZPQ5jFktz07lAVqaTsJgWSXrgngUjhAnDjF5uCxxl84v6+KWBMilG6TZM1htFDksoDgIPLM6HA==",
   "success": true,
-  "projectFilePath": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj",
+  "projectFilePath": "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\SDETAPI_CSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus.lora\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\jesus.lora\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
