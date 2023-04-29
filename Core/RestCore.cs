@@ -87,7 +87,7 @@ namespace SDETAPI_CSharp.Core
                 Log.AddEvent("An error occurred while calling API,"+ ex.ToString()+" | "+restRequest.ToString(), LogType.ERROR);
             }
             return featureResponse;
-            //comments
+            //comments abc
         }
     }
 }
