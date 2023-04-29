@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj": {}
+    "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\SDETAPI_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj": {
+    "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\SDETAPI_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\SDETAPI_CSharp.csproj",
         "projectName": "SDETAPI_CSharp",
-        "projectPath": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\SDETAPI_CSharp.csproj",
+        "projectPath": "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\SDETAPI_CSharp.csproj",
         "packagesPath": "C:\\Users\\jesus.lora\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning_Plan\\Practices\\SDET_API_CSharp\\obj\\",
+        "outputPath": "C:\\Users\\jesus.lora\\Downloads\\New folder (10)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
